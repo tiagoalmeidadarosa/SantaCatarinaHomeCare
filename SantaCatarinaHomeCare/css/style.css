@@ -86,13 +86,13 @@ ul.nav {
     font-weight: bold;
 }
 .navbar-default .navbar-nav>li>a:hover {
-    color: #42b3e5;
+    color: #ED3237;
 }
 .navbar-default .navbar-toggle .icon-bar {
     background-color: #000;
 }
 li a.active {
-    color: #42b3e5 !important;
+    color: #ED3237 !important;
 }
 .navbar-default .navbar-toggle {
     border-color: #fff;
@@ -189,7 +189,7 @@ li a.active {
 
 .about h2 {
     font-size: 90px;
-    color: #42b3e5;
+    color: #ED3237;
     margin-top: 50px;
 }
 .about h4 {
@@ -269,10 +269,10 @@ li a.active {
     padding-bottom: 30px;
 }
 .single-about-detail:hover .about-details {
-    background: #3a9dca;
+    background: #ED3237;
 }
 .single-about-detail:hover .pentagon-text h1 {
-    color: #3a9dca;
+    color: #ED3237;
 }
 
 /*service area*/
@@ -388,7 +388,7 @@ li a.active {
 }
 .team h2 {
     font-size: 90px;
-    color: #42b3e5;
+    color: #ED3237;
     margin-top: 50px;
     margin-bottom: 0;
 }
@@ -606,7 +606,7 @@ li a.active {
     padding: 22px 10px;
 }
 .footer a i.fa:hover {
-    color: #42b3e5;
+    color: #ED3237;
 }
 .carousel-inner {
     position: relative;
@@ -836,7 +836,7 @@ responsive area
     }
     .about h2 {
         font-size: 50px;
-        color: #42b3e5;
+        color: #ED3237;
         margin-top: 30px;
     }
     .service h2 {
