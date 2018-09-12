@@ -67,12 +67,53 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="css\bootstrap.min.css" />
+    <Content Include="css\font-awesome.min.css" />
+    <Content Include="css\style.css" />
+    <Content Include="fonts\fontawesome-webfont.svg" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="img\btn-bg.jpg" />
+    <Content Include="img\item1.jpg" />
+    <Content Include="img\item2.jpg" />
+    <Content Include="img\item3.jpg" />
+    <Content Include="img\logo.png" />
+    <Content Include="img\member1.jpg" />
+    <Content Include="img\member2.jpg" />
+    <Content Include="img\member3.jpg" />
+    <Content Include="img\member4.jpg" />
+    <Content Include="img\member5.jpg" />
+    <Content Include="img\member6.jpg" />
+    <Content Include="img\pattern.jpg" />
+    <Content Include="img\service1.png" />
+    <Content Include="img\service2.png" />
+    <Content Include="img\service3.png" />
+    <Content Include="img\service4.png" />
+    <Content Include="img\slide-four.jpg" />
+    <Content Include="img\slide-one.jpg" />
+    <Content Include="img\slide-three.jpg" />
+    <Content Include="img\slide-two.jpg" />
+    <Content Include="index.html" />
+    <Content Include="js\bootstrap.min.js" />
+    <Content Include="js\custom.js" />
+    <Content Include="js\gmaps.js" />
+    <Content Include="js\html5shiv.js" />
+    <Content Include="js\jquery-2.1.1.js" />
+    <Content Include="js\modernizr.js" />
+    <Content Include="js\respond.min.js" />
+    <Content Include="js\smoothscroll.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="fonts\fontawesome-webfont.eot" />
+    <Content Include="fonts\fontawesome-webfont.ttf" />
+    <Content Include="fonts\fontawesome-webfont.woff" />
+    <Content Include="fonts\FontAwesome.otf" />
+    <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
