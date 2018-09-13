@@ -77,13 +77,13 @@
     <Content Include="img\item2.jpg" />
     <Content Include="img\item3.jpg" />
     <Content Include="img\logo.png" />
-    <Content Include="img\logo2.png" />
     <Content Include="img\member1.jpg" />
     <Content Include="img\member2.jpg" />
     <Content Include="img\member3.jpg" />
     <Content Include="img\member4.jpg" />
     <Content Include="img\member5.jpg" />
     <Content Include="img\member6.jpg" />
+    <Content Include="img\logo2.png" />
     <Content Include="img\pattern.jpg" />
     <Content Include="img\service1.png" />
     <Content Include="img\service2.png" />
