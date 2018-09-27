@@ -350,20 +350,33 @@ li a.active {
     color: #fff;
     padding-bottom: 90px;
 }
-.service-img img.heart {
-    left: 20%;
-    top: 18%;
+.service-img img.nurse {
+    left: 35%;
+    top: 12%;
 }
-.service-img img.brain {
-    left: 26%;
-    top: 11%;
+.service-img img.syringe {
+    left: 32%;
+    top: 12%;
 }
-.service-img img.knee {
-    left: 38%;
+.service-img img.chair {
+    left: 22%;
+    top: 12%;
 }
-.service-img img.bone {
+.service-img img.equipment {
     left: 25%;
     top: 14%;
+}
+.service-img img.heart {
+    left: 25%;
+    top: 15%;
+}
+.service-img img.ear {
+    left: 35%;
+    top: 12%;
+}
+.service-img img.suitcase {
+    left: 21%;
+    top: 15%;
 }
 .service-img img {
     position: absolute;
