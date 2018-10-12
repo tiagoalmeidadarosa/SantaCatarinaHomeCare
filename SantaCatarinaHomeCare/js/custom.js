@@ -6,8 +6,8 @@ jQuery(document).ready(function () {
     //this code is for the gmap
     var map = new GMaps({
         el: '#map',
-        lat: -12.043333,
-        lng: -77.028333
+        lat: -29.9144333,//-12.043333,
+        lng: -51.0427995//-77.028333
     });
 
 
