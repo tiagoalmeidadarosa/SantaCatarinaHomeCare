@@ -73,6 +73,8 @@
     <Content Include="fonts\fontawesome-webfont.svg" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="img\btn-bg.jpg" />
+    <Content Include="img\slide-cuidadospaliativos.jpg" />
+    <Content Include="img\slide-fornecendocuidado.jpg" />
     <Content Include="img\item1.jpg" />
     <Content Include="img\item2.jpg" />
     <Content Include="img\item3.jpg" />
