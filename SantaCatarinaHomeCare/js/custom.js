@@ -1,13 +1,14 @@
 jQuery(document).ready(function () {
 
 
-    $('#carouselHacked').carousel();
+    //$('#carouselHacked').carousel();
 
     //this code is for the gmap
     var map = new GMaps({
         el: '#map',
-        lat: -29.9144333,//-12.043333,
-        lng: -51.0427995//-77.028333
+        lat: -29.857344,//-12.043333,
+        lng: -51.1173729,//-77.028333
+        zoom: 11
     });
 
 
