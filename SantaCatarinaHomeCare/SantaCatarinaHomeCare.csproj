@@ -72,7 +72,9 @@
     <Content Include="css\style.css" />
     <Content Include="fonts\fontawesome-webfont.svg" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="img\animated_favicon1.gif" />
     <Content Include="img\btn-bg.jpg" />
+    <Content Include="img\favicon.ico" />
     <Content Include="img\fundo-enfermagem.png" />
     <Content Include="img\slide-fornecendocuidado_3.jpg" />
     <Content Include="img\slide-fornecendocuidado.jpg" />
